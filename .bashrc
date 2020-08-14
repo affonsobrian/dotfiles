@@ -16,4 +16,5 @@ export PATH
 # export SYSTEMD_PAGER=
 
 alias vim="nvim"
-# User specific aliases and functions
+alias opr="cd ~/Documents/Repositorios"
+
